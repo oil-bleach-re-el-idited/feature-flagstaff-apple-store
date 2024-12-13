@@ -1,4 +1,4 @@
----
+env.local
 name: Feature Flag Apple Store
 slug: feature-flag-apple-store
 description: This template uses Edge Config as fast storage to control whether a store is open or closed.
@@ -14,7 +14,7 @@ relatedTemplates:
   - maintenance-page
   - ab-testing-simple
   - nextjs-boilerplate
----
+
 
 # Feature Flag Apple Store
 
